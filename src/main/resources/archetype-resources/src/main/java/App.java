@@ -1,7 +1,7 @@
 package $package;
 
 /**
- * Hello world!
+ * DevOps world!
  *
  */
 public class App 
